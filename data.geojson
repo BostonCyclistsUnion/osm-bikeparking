@@ -56015,10 +56015,17 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "10",
+        "colour": "black",
         "covered": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ALong_wave_bike_rack_at_the_JP_Brewery_Complex.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ALong_wave_bike_rack_at_the_JP_Brewery_Complex.jpg",
         "@id": "node/13324841855",
         "@type": "node"
       }
@@ -59777,6 +59784,75 @@
         "capacity": "4",
         "covered": "no",
         "@id": "node/13650392828",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1033267,
+          42.3144412
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack.jpg",
+        "indoor": "no",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack.jpg",
+        "@id": "node/13653686623",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1032789,
+          42.3145914
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "4",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ABlack_wave_bike_rack_at_Sam_Adams.jpg",
+        "indoor": "no",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABlack_wave_bike_rack_at_Sam_Adams.jpg",
+        "@id": "node/13653686624",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1012733,
+          42.3126898
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "16",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A8_staple_bike_racks_on_Washington_St.jpg",
+        "indoor": "no",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A8_staple_bike_racks_on_Washington_St.jpg",
+        "@id": "node/13653717716",
         "@type": "node"
       }
     },
