@@ -3705,6 +3705,9 @@
         "bicycle_parking": "shed",
         "capacity": "82",
         "covered": "yes",
+        "fee": "no",
+        "operator": "MBTA",
+        "operator:type": "public",
         "@id": "node/4046773222",
         "@type": "node"
       }
@@ -9837,6 +9840,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
         "@id": "node/8119477376",
         "@type": "node"
       }
@@ -57859,10 +57865,18 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "4",
+        "capacity": "8",
+        "colour": "black",
         "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_Malcolm_X_Park.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_Malcolm_X_Park.jpg",
         "@id": "node/13440343248",
         "@type": "node"
       }
@@ -57931,10 +57945,17 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "8",
+        "colour": "black",
         "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_by_picnic_area.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_by_picnic_area.jpg",
         "@id": "node/13440356442",
         "@type": "node"
       }
@@ -58093,10 +58114,19 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
+        "bike_ride": "yes",
         "capacity": "30",
+        "colour": "silver",
         "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A15_O_style_bike_racks_at_Forest_Hills.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A15_O_style_bike_racks_at_Forest_Hills.jpg",
         "@id": "node/13443802569",
         "@type": "node"
       }
@@ -59853,6 +59883,108 @@
         "operator:type": "private",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A8_staple_bike_racks_on_Washington_St.jpg",
         "@id": "node/13653717716",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0815918,
+          42.3088849
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "4",
+        "colour": "silver",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ASilver_wave_style_bike_rack_next_to_brick_building.jpg",
+        "indoor": "no",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ASilver_wave_style_bike_rack_next_to_brick_building.jpg",
+        "@id": "node/13653938489",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0813818,
+          42.3079968
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "colour": "silver",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A3_silver_staple_style_bike_racks_behind_Grove_Hall_Library.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_silver_staple_style_bike_racks_behind_Grove_Hall_Library.jpg",
+        "@id": "node/13654005505",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1960736,
+          42.3900558
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/13656598313",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1951363,
+          42.3895758
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "@id": "node/13656608528",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1755812,
+          42.3969265
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/13656679930",
         "@type": "node"
       }
     },
