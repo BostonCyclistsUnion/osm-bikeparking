@@ -59678,7 +59678,7 @@
         "colour": "black",
         "covered": "no",
         "fee": "no",
-        "image": "2 lollypop style bike racks in front of Grove Hall Community Center, Boston MA https://commons.wikimedia.org/wiki/File%3A2_lollypop_style_bike_racks_in_front_of_Grove_Hall_Community_Center%2C_Boston_MA.jpg",
+        "image": "http://2 lollypop style bike racks in front of Grove Hall Community Center, Boston MA https://commons.wikimedia.org/wiki/File%3A2_lollypop_style_bike_racks_in_front_of_Grove_Hall_Community_Center%2C_Boston_MA.jpg",
         "indoor": "no",
         "operator:type": "public",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_style_bike_racks_in_front_of_Grove_Hall_Community_Center%2C_Boston_MA.jpg",
@@ -63903,6 +63903,21 @@
         "operator:type": "public",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Lollypop_style_bike_racks_in_front_of_a_newer_brick_building.jpg",
         "@id": "node/13870804291",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1112614,
+          42.3213181
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/13906085302",
         "@type": "node"
       }
     },
