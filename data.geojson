@@ -504,7 +504,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "shed",
-        "capacity": "60",
+        "capacity": "165",
         "covered": "yes",
         "fee": "no",
         "name": "Pedal and Park",
