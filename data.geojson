@@ -10623,7 +10623,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
-        "bicycle_parking": "hoop",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
         "@id": "node/8392143137",
         "@type": "node"
       }
@@ -10639,7 +10641,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
-        "bicycle_parking": "hoop",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
         "@id": "node/8392143139",
         "@type": "node"
       }
@@ -39108,6 +39112,8 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "safe_loops",
+        "capacity": "6",
+        "covered": "no",
         "@id": "node/12163521299",
         "@type": "node"
       }
@@ -64970,6 +64976,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.2105399,
+          42.4351209
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/13949909984",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.224469,
+          42.4469669
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "@id": "node/13950441132",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2242463,
+          42.4467793
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wide_stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/13950548727",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
@@ -66018,14 +66076,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1886442,
-          42.4260986
+          -71.1886509,
+          42.4261
         ]
       },
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
+        "bicycle_parking": "stands",
         "capacity": "10",
         "covered": "no",
         "operator": "Town of Arlington",
