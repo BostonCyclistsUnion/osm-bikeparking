@@ -30772,7 +30772,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "6",
+        "capacity": "4",
         "covered": "no",
         "fee": "no",
         "@id": "node/11406793709",
@@ -60034,10 +60034,17 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "4",
+        "colour": "black",
         "covered": "yes",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_Lollypop_style_bike_racks_in_front_of_William_E_Carter_School_in_Boston.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_Lollypop_style_bike_racks_in_front_of_William_E_Carter_School_in_Boston.jpg",
         "@id": "node/13666886540",
         "@type": "node"
       }
@@ -65277,6 +65284,75 @@
         "covered": "no",
         "fee": "no",
         "@id": "node/13958312187",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1197392,
+          42.3881858
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/13961219481",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0840109,
+          42.3399962
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A4_lollypop_style_bike_racks_at_the_end_of_the_Carter_School_parking_lot.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_lollypop_style_bike_racks_at_the_end_of_the_Carter_School_parking_lot.jpg",
+        "@id": "node/13961413521",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0841159,
+          42.3401144
+        ]
+      },
+      "properties": {
+        "access": "employees",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "colour": "black",
+        "covered": "yes",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A10_Lollypop_style_bike_racks_behind_a_fence_under_a_roof.jpg",
+        "indoor": "no",
+        "operator": "Boston Public Schools",
+        "operator:type": "school",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A10_Lollypop_style_bike_racks_behind_a_fence_under_a_roof.jpg",
+        "@id": "node/13961413522",
         "@type": "node"
       }
     },
