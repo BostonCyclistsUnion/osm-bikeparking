@@ -65977,6 +65977,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0884497,
+          42.3010492
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "yes",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ASingle_bike_rack_at_the_Franklin_Park_Golf_Course.jpg",
+        "indoor": "no",
+        "operator": "City Of Boston",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ASingle_bike_rack_at_the_Franklin_Park_Golf_Course.jpg",
+        "@id": "node/13971127497",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088542,
+          42.3011234
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "colour": "black",
+        "covered": "yes",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3AStand_alone_bike_rack_at_Franklin_Park_Golf_Clubhouse.jpg",
+        "indoor": "no",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AStand_alone_bike_rack_at_Franklin_Park_Golf_Clubhouse.jpg",
+        "@id": "node/13971127498",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
