@@ -5054,6 +5054,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
         "@id": "node/4934468134",
         "@type": "node"
       }
@@ -27517,6 +27520,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "10",
+        "covered": "no",
         "note": "May be seasonal",
         "@id": "node/11048016577",
         "@type": "node"
@@ -66020,6 +66024,118 @@
         "operator:type": "public",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AStand_alone_bike_rack_at_Franklin_Park_Golf_Clubhouse.jpg",
         "@id": "node/13971127498",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0527531,
+          42.3204976
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "8",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13972397103",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0515946,
+          42.3206855
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "28",
+        "covered": "yes",
+        "fee": "no",
+        "@id": "node/13972397104",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.050752,
+          42.3186986
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13972397105",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0499962,
+          42.3176727
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13972397106",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0495005,
+          42.3146289
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13972397107",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0928372,
+          42.4626885
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/13972947127",
         "@type": "node"
       }
     },
