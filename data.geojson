@@ -53258,7 +53258,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A2_inverted_V_shaped_bike_racks_in_Nubian_Square_Boston.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_inverted_V_shaped_bike_racks_in_Nubian_Square_Boston.jpg",
+        "wikimedia_commons": "File:2 inverted V shaped bike racks in Nubian Square Boston.jpg",
         "@id": "node/13172496912",
         "@type": "node"
       }
@@ -57555,7 +57555,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A3_Lollypop_style_bike_racks_on_Park_Dr_in_Fenway.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_Lollypop_style_bike_racks_on_Park_Dr_in_Fenway.jpg",
+        "wikimedia_commons": "File:3 Lollypop style bike racks on Park Dr in Fenway.jpg",
         "@id": "node/13403173336",
         "@type": "node"
       }
@@ -57579,7 +57579,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_on_SW_Corridor_Park.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_on_SW_Corridor_Park.jpg",
+        "wikimedia_commons": "File:Wave bike rack on SW Corridor Park.jpg",
         "@id": "node/13403198991",
         "@type": "node"
       }
@@ -59956,7 +59956,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_in_Nubian_Square_Boston.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_in_Nubian_Square_Boston.jpg",
+        "wikimedia_commons": "File:Inverted V shaped bike rack in Nubian Square Boston.jpg",
         "@id": "node/13657652517",
         "@type": "node"
       }
@@ -59981,7 +59981,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_near_Bolling_Building.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AInverted_V_shaped_bike_rack_near_Bolling_Building.jpg",
+        "wikimedia_commons": "File:Inverted V shaped bike rack near Bolling Building.jpg",
         "@id": "node/13657667490",
         "@type": "node"
       }
@@ -60006,7 +60006,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A5_Staple_bike_rack_corner_of_Bolling_Building.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A5_Staple_bike_rack_corner_of_Bolling_Building.jpg",
+        "wikimedia_commons": "File:5 Staple bike rack corner of Bolling Building.jpg",
         "@id": "node/13657670905",
         "@type": "node"
       }
@@ -60049,7 +60049,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A2_Lollypop_style_bike_racks_in_front_of_William_E_Carter_School_in_Boston.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_Lollypop_style_bike_racks_in_front_of_William_E_Carter_School_in_Boston.jpg",
+        "wikimedia_commons": "File:2 Lollypop style bike racks in front of William E Carter School in Boston.jpg",
         "@id": "node/13666886540",
         "@type": "node"
       }
@@ -65330,7 +65330,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A4_lollypop_style_bike_racks_at_the_end_of_the_Carter_School_parking_lot.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_lollypop_style_bike_racks_at_the_end_of_the_Carter_School_parking_lot.jpg",
+        "wikimedia_commons": "File:4 lollypop style bike racks at the end of the Carter School parking lot.jpg",
         "@id": "node/13961413521",
         "@type": "node"
       }
@@ -65356,7 +65356,7 @@
         "indoor": "no",
         "operator": "Boston Public Schools",
         "operator:type": "school",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A10_Lollypop_style_bike_racks_behind_a_fence_under_a_roof.jpg",
+        "wikimedia_commons": "File:10 Lollypop style bike racks behind a fence under a roof.jpg",
         "@id": "node/13961413522",
         "@type": "node"
       }
@@ -66136,6 +66136,25 @@
         "capacity": "6",
         "covered": "no",
         "@id": "node/13972947127",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0499149,
+          42.314868
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13975242824",
         "@type": "node"
       }
     },
