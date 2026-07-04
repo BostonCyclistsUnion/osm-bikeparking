@@ -45574,6 +45574,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
+        "capacity": "9",
         "covered": "no",
         "@id": "node/12954863451",
         "@type": "node"
