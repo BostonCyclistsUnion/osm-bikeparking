@@ -55971,7 +55971,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ALong_wave_bike_rack_at_the_JP_Brewery_Complex.jpg",
+        "wikimedia_commons": "File:Long wave bike rack at the JP Brewery Complex.jpg",
         "@id": "node/13324841855",
         "@type": "node"
       }
@@ -57486,7 +57486,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A8_ring_style_bike_racks_across_from_Jackson_Sq_T_bus_depot.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A8_ring_style_bike_racks_across_from_Jackson_Sq_T_bus_depot.jpg",
+        "wikimedia_commons": "File:8 ring style bike racks across from Jackson Sq T bus depot.jpg",
         "@id": "node/13403145643",
         "@type": "node"
       }
@@ -57510,7 +57510,7 @@
         "image": "http://7 staple style bike racks on Centre St in Jackson Sq https://commons.wikimedia.org/wiki/File%3A7_staple_style_bike_racks_on_Centre_St_in_Jackson_Sq.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A7_staple_style_bike_racks_on_Centre_St_in_Jackson_Sq.jpg",
+        "wikimedia_commons": "File:7 staple style bike racks on Centre St in Jackson Sq.jpg",
         "@id": "node/13403145644",
         "@type": "node"
       }
@@ -57534,7 +57534,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A4_staple_style_bike_racks_on_Centre_St_Jackson_Square.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_staple_style_bike_racks_on_Centre_St_Jackson_Square.jpg",
+        "wikimedia_commons": "File:4 staple style bike racks on Centre St Jackson Square.jpg",
         "@id": "node/13403145645",
         "@type": "node"
       }
@@ -59786,7 +59786,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack.jpg",
         "indoor": "no",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack.jpg",
+        "wikimedia_commons": "File:Wave bike rack.jpg",
         "@id": "node/13653686623",
         "@type": "node"
       }
@@ -59809,7 +59809,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3ABlack_wave_bike_rack_at_Sam_Adams.jpg",
         "indoor": "no",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABlack_wave_bike_rack_at_Sam_Adams.jpg",
+        "wikimedia_commons": "File:Black wave bike rack at Sam Adams.jpg",
         "@id": "node/13653686624",
         "@type": "node"
       }
@@ -66252,6 +66252,25 @@
         "capacity": "5",
         "covered": "no",
         "@id": "node/13989102419",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0630112,
+          42.464523
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "check_date": "2026-07-05",
+        "colour": "grey",
+        "covered": "no",
+        "fee": "no",
+        "@id": "node/13991264809",
         "@type": "node"
       }
     },
