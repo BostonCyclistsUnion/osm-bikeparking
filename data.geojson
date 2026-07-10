@@ -2620,7 +2620,11 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
-        "check_date": "2025-09-13",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "check_date": "2026-07-09",
+        "check_date:capacity": "2026-07-09",
+        "covered": "yes",
         "@id": "node/2296973675",
         "@type": "node"
       }
@@ -59808,6 +59812,7 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "capacity": "16",
         "covered": "no",
         "fee": "no",
