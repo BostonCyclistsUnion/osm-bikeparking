@@ -71,6 +71,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
+        "check_date": "2026-07-14",
         "covered": "no",
         "@id": "node/439205478",
         "@type": "node"
@@ -21561,6 +21562,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "6",
+        "covered": "no",
         "@id": "node/9858768454",
         "@type": "node"
       }
@@ -26946,23 +26948,6 @@
         "capacity": "8",
         "covered": "no",
         "@id": "node/10940774327",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0606281,
-          42.3609172
-        ]
-      },
-      "properties": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
-        "covered": "no",
-        "@id": "node/10968276337",
         "@type": "node"
       }
     },
