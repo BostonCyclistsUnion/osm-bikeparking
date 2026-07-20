@@ -16729,14 +16729,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1063054,
-          42.3498163
+          -71.1062749,
+          42.3498098
         ]
       },
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "2",
+        "capacity": "4",
         "covered": "no",
         "@id": "node/9847188290",
         "@type": "node"
@@ -56479,13 +56479,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.185788,
-          42.3651623
+          -71.1857687,
+          42.36515
         ]
       },
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
+        "capacity": "12",
         "covered": "yes",
         "@id": "node/13338697604",
         "@type": "node"
@@ -57821,7 +57822,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_Malcolm_X_Park.jpg",
+        "wikimedia_commons": "File:4 Black O style bike racks Malcolm X Park.jpg",
         "@id": "node/13440343248",
         "@type": "node"
       }
@@ -57900,7 +57901,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_by_picnic_area.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A4_Black_O_style_bike_racks_by_picnic_area.jpg",
+        "wikimedia_commons": "File:4 Black O style bike racks by picnic area.jpg",
         "@id": "node/13440356442",
         "@type": "node"
       }
@@ -59657,7 +59658,7 @@
         "image": "http://2 lollypop style bike racks in front of Grove Hall Community Center, Boston MA https://commons.wikimedia.org/wiki/File%3A2_lollypop_style_bike_racks_in_front_of_Grove_Hall_Community_Center%2C_Boston_MA.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_style_bike_racks_in_front_of_Grove_Hall_Community_Center%2C_Boston_MA.jpg",
+        "wikimedia_commons": "File:2 lollypop style bike racks in front of Grove Hall Community Center, Boston MA.jpg",
         "@id": "node/13639669723",
         "@type": "node"
       }
@@ -59856,7 +59857,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3ASilver_wave_style_bike_rack_next_to_brick_building.jpg",
         "indoor": "no",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ASilver_wave_style_bike_rack_next_to_brick_building.jpg",
+        "wikimedia_commons": "File:Silver wave style bike rack next to brick building.jpg",
         "@id": "node/13653938489",
         "@type": "node"
       }
@@ -59880,7 +59881,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A3_silver_staple_style_bike_racks_behind_Grove_Hall_Library.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_silver_staple_style_bike_racks_behind_Grove_Hall_Library.jpg",
+        "wikimedia_commons": "File:3 silver staple style bike racks behind Grove Hall Library.jpg",
         "@id": "node/13654005505",
         "@type": "node"
       }
@@ -60267,7 +60268,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AGrey_wave_bike_rack_behind_building.jpg",
+        "wikimedia_commons": "File:Grey wave bike rack behind building.jpg",
         "@id": "node/13683919700",
         "@type": "node"
       }
@@ -60293,7 +60294,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ARed_Spiral_Bike_Rack.jpg",
+        "wikimedia_commons": "File:Red Spiral Bike Rack.jpg",
         "@id": "node/13684011423",
         "@type": "node"
       }
@@ -63109,7 +63110,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_against_brick_wall_at_rear_of_CVS.jpg",
         "indoor": "no",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bike_rack_against_brick_wall_at_rear_of_CVS.jpg",
+        "wikimedia_commons": "File:Wave bike rack against brick wall at rear of CVS.jpg",
         "@id": "node/13826278968",
         "@type": "node"
       }
@@ -66000,7 +66001,7 @@
         "indoor": "no",
         "operator": "City Of Boston",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ASingle_bike_rack_at_the_Franklin_Park_Golf_Course.jpg",
+        "wikimedia_commons": "File:Single bike rack at the Franklin Park Golf Course.jpg",
         "@id": "node/13971127497",
         "@type": "node"
       }
@@ -66025,7 +66026,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AStand_alone_bike_rack_at_Franklin_Park_Golf_Clubhouse.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AStand_alone_bike_rack_at_Franklin_Park_Golf_Clubhouse.jpg",
+        "wikimedia_commons": "File:Stand alone bike rack at Franklin Park Golf Clubhouse.jpg",
         "@id": "node/13971127498",
         "@type": "node"
       }
@@ -67046,6 +67047,41 @@
         "capacity": "4",
         "covered": "no",
         "@id": "node/14023390969",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1061284,
+          42.3480373
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "@id": "node/14027369879",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0518227,
+          42.3081127
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "@id": "node/14027609652",
         "@type": "node"
       }
     },
