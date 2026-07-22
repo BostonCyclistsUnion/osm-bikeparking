@@ -312,8 +312,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1137842,
-          42.4196685
+          -71.1139401,
+          42.4197409
         ]
       },
       "properties": {
@@ -67186,6 +67186,36 @@
       "properties": {
         "amenity": "bicycle_parking",
         "@id": "node/14030268015",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079103,
+          42.3449449
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14031139202",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0800271,
+          42.3454658
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14031140001",
         "@type": "node"
       }
     },
