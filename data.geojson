@@ -2737,6 +2737,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "rack",
         "capacity": "15",
+        "check_date": "2026-07-23",
         "covered": "no",
         "operator": "Whole Foods",
         "@id": "node/2447298562",
@@ -8011,6 +8012,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "bollard",
+        "capacity": "2",
+        "covered": "no",
         "@id": "node/7670790725",
         "@type": "node"
       }
@@ -46934,8 +46937,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0523458,
-          42.4291391
+          -71.0523645,
+          42.4291393
         ]
       },
       "properties": {
@@ -46952,8 +46955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0525119,
-          42.4288341
+          -71.0524919,
+          42.4288174
         ]
       },
       "properties": {
@@ -49142,14 +49145,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.116478,
-          42.3776857
+          -71.1163122,
+          42.3775595
         ]
       },
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "20",
+        "covered": "no",
         "@id": "node/13042140410",
         "@type": "node"
       }
