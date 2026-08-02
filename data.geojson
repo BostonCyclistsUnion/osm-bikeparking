@@ -23656,6 +23656,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "2",
+        "covered": "no",
         "@id": "node/10023071313",
         "@type": "node"
       }
@@ -67750,6 +67751,42 @@
         "capacity": "2",
         "covered": "no",
         "@id": "node/14064891443",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2244408,
+          42.3805791
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/14066730685",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2467924,
+          42.3798284
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/14066757439",
         "@type": "node"
       }
     },
