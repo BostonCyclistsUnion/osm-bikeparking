@@ -65300,7 +65300,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "colour": "Black",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
         "@id": "node/13958312187",
