@@ -2533,8 +2533,8 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "24",
-        "check_date": "2024-09-01",
+        "capacity": "12",
+        "check_date": "2026-08-10",
         "covered": "yes",
         "@id": "node/2294209696",
         "@type": "node"
@@ -32268,12 +32268,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1203068,
-          42.3426807
+          -71.1203825,
+          42.3425688
         ]
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "capacity": "4",
         "@id": "node/11454299920",
         "@type": "node"
       }
@@ -68145,6 +68146,60 @@
       "properties": {
         "amenity": "bicycle_parking",
         "@id": "node/14081184166",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1680373,
+          42.3226681
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14085824716",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1680855,
+          42.322663
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14085835447",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1679941,
+          42.3226775
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14085838142",
         "@type": "node"
       }
     },
