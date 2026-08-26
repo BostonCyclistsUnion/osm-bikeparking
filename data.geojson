@@ -90610,6 +90610,137 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.1183256,
+          42.4068527
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14123778501",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1181461,
+          42.4072669
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14123778701",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1181269,
+          42.4086135
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "419",
+        "addr:street": "Boston Avenue",
+        "amenity": "bicycle_parking",
+        "check_date": "2026-08-25",
+        "@id": "node/14123854920",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1181391,
+          42.4086285
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "419",
+        "addr:street": "Boston Avenue",
+        "amenity": "bicycle_parking",
+        "check_date": "2026-08-25",
+        "@id": "node/14123854921",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1169786,
+          42.4077155
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14123855405",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1206218,
+          42.4060944
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14123892201",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1742242,
+          42.3985217
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "7",
+        "covered": "no",
+        "@id": "node/14123972908",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1764058,
+          42.3958383
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "9",
+        "@id": "node/14123990884",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
