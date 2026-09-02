@@ -67951,7 +67951,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "14",
+        "capacity": "13",
         "covered": "no",
         "@id": "node/13098760964",
         "@type": "node"
@@ -90853,6 +90853,42 @@
         "capacity": "4",
         "covered": "no",
         "@id": "node/14135135464",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6238606,
+          42.1286313
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "no",
+        "@id": "node/14140855577",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6200301,
+          42.1059791
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "@id": "node/14140894743",
         "@type": "node"
       }
     },
