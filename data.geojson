@@ -70441,23 +70441,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0940054,
-          42.3068117
-        ]
-      },
-      "properties": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "post_hoop",
-        "capacity": "4",
-        "@id": "node/13146215971",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.0955939,
           42.3048033
         ]
@@ -72996,12 +72979,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5205878,
-          42.3948479
+          -72.5205038,
+          42.394736
         ]
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "capacity": "4",
         "@id": "node/13260275839",
         "@type": "node"
@@ -90897,6 +90881,103 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0945231,
+          42.3067281
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "3",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ABike_parking_in_front_of_baseball_field_in_Franklin_Park_Boston.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator": "City Of Boston",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABike_parking_in_front_of_baseball_field_in_Franklin_Park_Boston.jpg",
+        "@id": "node/14142549863",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5252033,
+          42.3935951
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/14142586923",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5253202,
+          42.3935554
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "@id": "node/14142605931",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5270967,
+          42.3939543
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "yes",
+        "@id": "node/14142699836",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6229329,
+          42.1067899
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/14143005696",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
@@ -93272,6 +93353,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "@id": "way/1415974333",
         "@type": "way"
       }
