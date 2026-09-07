@@ -6900,26 +6900,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.6320845,
-          42.3194078
-        ]
-      },
-      "properties": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
-        "capacity": "4",
-        "covered": "no",
-        "name": "Police Station",
-        "@id": "node/4842907699",
-        "@type": "node"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.1022872,
           42.364699
         ]
@@ -25760,6 +25740,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "rack",
         "capacity": "15",
+        "covered": "no",
         "@id": "node/9854390624",
         "@type": "node"
       }
@@ -62165,6 +62146,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "covered": "no",
         "@id": "node/12971753889",
         "@type": "node"
       }
@@ -73936,7 +73920,10 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
+        "bicycle_parking": "staple",
+        "check_date": "2026-09-06",
         "fee": "no",
+        "panoramax": "91ec0230-57c3-4d2c-a491-65f82d04a7e5",
         "@id": "node/13298605553",
         "@type": "node"
       }
@@ -91409,6 +91396,165 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.0016375,
+          42.5490282
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/14157664258",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9937353,
+          42.5449056
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "@id": "node/14157669222",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9932921,
+          42.5452985
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14157688361",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3934745,
+          42.4570271
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "fee": "no",
+        "lit": "yes",
+        "@id": "node/14157738201",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2824753,
+          42.3791761
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14157753235",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2349868,
+          42.3744489
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "covered": "no",
+        "indoor": "no",
+        "@id": "node/14157768314",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9400828,
+          42.5665821
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14158361662",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9394778,
+          42.566911
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14158382661",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1083867,
+          42.4185502
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/14158461534",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
@@ -92537,6 +92683,11 @@
         "bicycle_parking": "stands",
         "capacity": "50",
         "covered": "yes",
+        "description": "Constitution semi-enclosed bike parking shelter.",
+        "fee": "no",
+        "indoor": "no",
+        "lit": "no",
+        "panoramax": "804087c6-2d41-4486-9c79-9119da2eccf2",
         "@id": "way/1010050800",
         "@type": "way"
       }
