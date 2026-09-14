@@ -91704,6 +91704,546 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.747242,
+          42.180867
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "name": "Untold Brewing",
+        "note": "Grid-style rack",
+        "@id": "node/14178169916",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.785744,
+          42.218676
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "776 Country Way, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "3",
+        "name": "Board 143",
+        "note": "Grid-style rack",
+        "@id": "node/14178169917",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76849,
+          42.200317
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "note": "Inverted-triangle style stand",
+        "@id": "node/14178169918",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.768585,
+          42.199282
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "note": "Inverted-triangle style stand",
+        "@id": "node/14178169919",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.730015,
+          42.191362
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "12",
+        "note": "1 traditional grid style in front, wave in rear | Old - needs refurbish / replace",
+        "@id": "node/14178169920",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.76189,
+          42.216313
+        ]
+      },
+      "properties": {
+        "addr:full": "72 Ann Vinal Rd, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "16",
+        "note": "2x traditional grid-style racks, ground-standing / not bolted down | In rough shape",
+        "@id": "node/14178169921",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.742052,
+          42.210102
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "16",
+        "note": "Circular grid-style rack",
+        "@id": "node/14178169922",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.769315,
+          42.204161
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "8",
+        "note": "Traditional grid-style rack, ground-standing / not bolted down | Not mounted",
+        "@id": "node/14178169923",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.781564,
+          42.212041
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "709 Country Way, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "name": "Ellis House",
+        "note": "3 surface mounted hoop",
+        "@id": "node/14178169924",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7462287,
+          42.1773876
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "247 Old Driftway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "fixme": "VERIFY: original row had no station name | Coordinates are the manually-dragged map pin position (2026-09-10), not the original geocode - do not overwrite with a fresh geocode on reimport",
+        "name": "Greenbush Station (second set)",
+        "note": "Coat-hanger style rack",
+        "@id": "node/14178169925",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.746395,
+          42.178779
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "247 Old Driftway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wave",
+        "capacity": "5",
+        "name": "Greenbush Station",
+        "note": "3-loop wave rack",
+        "@id": "node/14178169926",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.788091,
+          42.219367
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "777 Country Way, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wave",
+        "capacity": "5",
+        "name": "North Scituate Station",
+        "note": "3-loop wave rack",
+        "@id": "node/14178169927",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.764337,
+          42.242645
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "10",
+        "name": "Minot Beach",
+        "note": "Movable double-sided rack; seasonal - removed to schools in fall | Moveable - goes to schools in Fall",
+        "@id": "node/14178169928",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.719342,
+          42.187236
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "6",
+        "name": "Peggotty Beach",
+        "note": "Movable double-sided rack; seasonal - removed to schools in fall | Moveable - goes to schools in Fall",
+        "@id": "node/14178169929",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6895254,
+          42.1383736
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "10",
+        "name": "Humarock Beach",
+        "note": "Movable double-sided rack; seasonal - removed to schools in fall | Moveable - goes to schools in Fall",
+        "@id": "node/14178169930",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7481046,
+          42.2194257
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "16",
+        "fixme": "Two or more distinct rack installs share one geocoded point; field-check and split into separate nodes with real GPS coords if applicable.",
+        "name": "Egypt Beach",
+        "note": "Combined from 2 merged rack installs: 2 racks (cap 10) plus a double-sided moveable rack (cap 6), seasonal, removed to schools in fall.",
+        "@id": "node/14178169931",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.756357,
+          42.202741
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "85 Branch St, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "12",
+        "name": "Scituate Library",
+        "note": "Custom sculpted shark-form rack (Vo-Tech-designed, town-installed public art piece)",
+        "@id": "node/14178169932",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7697989,
+          42.2014496
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "name": "High School Ball Field",
+        "note": "Inverted-triangle style stand | Coordinates are the manually-dragged map pin position (2026-09-10), not the original geocode - do not overwrite with a fresh geocode on reimport",
+        "@id": "node/14178169933",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.718032,
+          42.195695
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "119 Edward Foster Rd, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "name": "Scituate Maritime Center",
+        "@id": "node/14178169934",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7684,
+          42.1975
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "600 Chief Justice Cushing Hwy, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "name": "Town Hall",
+        "@id": "node/14178169935",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.755242,
+          42.199155
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "327 First Parish Rd, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "name": "Rec Department",
+        "note": "Inverted-triangle style stand",
+        "@id": "node/14178169936",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.755703,
+          42.19938
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "name": "Senior Center",
+        "note": "Inverted-triangle style stand",
+        "@id": "node/14178169937",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.74552,
+          42.176734
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "52 New Driftway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "9",
+        "name": "Rail Trail head by Lucky Finn (Driftway)",
+        "note": "Combined from 2 merged rack installs: stands rack (cap 3) and wave rack (cap 6) at the same surveyed point.",
+        "@id": "node/14178169938",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.742371,
+          42.177218
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "301 Driftway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "name": "Irish Mossing Museum",
+        "@id": "node/14178169939",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.735068,
+          42.175558
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "Driftway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "name": "Conservation Park",
+        "@id": "node/14178169940",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.787134,
+          42.218151
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "12",
+        "fixme": "Two or more distinct rack installs share one geocoded point; field-check and split into separate nodes with real GPS coords if applicable.",
+        "name": "North Scituate Playground",
+        "note": "Combined from 2 merged rack installs: Wave racks (cap 6) and Tubular squared racks (cap 6, reduced usable capacity vs. staple racks of similar size).",
+        "@id": "node/14178169941",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.723417,
+          42.194929
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:full": "100 Cole Parkway, Scituate, MA 02066",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "name": "Scituate Harbor",
+        "@id": "node/14178169942",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
