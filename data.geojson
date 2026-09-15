@@ -1516,11 +1516,14 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "2",
         "check_date:capacity": "2023-07-30",
         "covered": "no",
+        "fee": "no",
+        "indoor": "no",
         "@id": "node/1819691878",
         "@type": "node"
       }
@@ -55190,6 +55193,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "9",
+        "covered": "no",
         "@id": "node/12549294974",
         "@type": "node"
       }
