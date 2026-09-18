@@ -92332,6 +92332,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.1024083,
+          42.3392684
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "capacity": "20",
+        "covered": "yes",
+        "operator:type": "private",
+        "@id": "node/14190244378",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
