@@ -55320,6 +55320,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "7",
+        "covered": "no",
         "@id": "node/12549958980",
         "@type": "node"
       }
@@ -55355,6 +55356,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "16",
+        "covered": "no",
         "@id": "node/12549958984",
         "@type": "node"
       }
@@ -60751,6 +60753,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "covered": "no",
         "@id": "node/12941192382",
         "@type": "node"
