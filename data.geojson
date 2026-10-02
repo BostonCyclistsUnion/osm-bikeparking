@@ -4248,6 +4248,7 @@
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
+        "capacity": "8",
         "covered": "yes",
         "@id": "node/3404179511",
         "@type": "node"
@@ -87698,6 +87699,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "capacity": "20",
         "covered": "no",
         "@id": "node/14059827649",
@@ -92533,6 +92535,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.100308,
+          42.3371839
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "fee": "no",
+        "operator:type": "public",
+        "@id": "node/14239617662",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.1277176,
           42.3923144
         ]
@@ -94326,6 +94349,7 @@
         "bicycle_parking": "shed",
         "bike_ride": "yes",
         "building": "yes",
+        "capacity": "56",
         "covered": "yes",
         "fee": "no",
         "lit": "yes",
