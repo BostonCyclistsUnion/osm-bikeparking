@@ -37759,7 +37759,8 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
-        "bicycle_parking": "coathanger",
+        "bicycle_parking": "rack",
+        "bicycle_parking:rack": "coathanger",
         "capacity": "16",
         "covered": "no",
         "description": "(1) Saris coathanger rack, 2-sided",
@@ -37783,7 +37784,8 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
-        "bicycle_parking": "coathanger",
+        "bicycle_parking": "rack",
+        "bicycle_parking:rack": "coathanger",
         "capacity": "16",
         "covered": "no",
         "description": "(1) Saris coathanger rack, 2-sided",
@@ -92548,6 +92550,42 @@
         "fee": "no",
         "operator:type": "public",
         "@id": "node/14239617662",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2636212,
+          42.4804458
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "@id": "node/14244486279",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2317761,
+          42.4588254
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14244511064",
         "@type": "node"
       }
     },
