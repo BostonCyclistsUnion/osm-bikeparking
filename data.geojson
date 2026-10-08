@@ -27793,6 +27793,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "covered": "no",
         "@id": "node/9856980227",
         "@type": "node"
       }
@@ -93380,6 +93381,42 @@
       "properties": {
         "amenity": "bicycle_parking",
         "@id": "node/14253708473",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5897241,
+          42.5621238
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/14262147279",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5897125,
+          42.56081
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "8",
+        "covered": "no",
+        "@id": "node/14262161084",
         "@type": "node"
       }
     },
