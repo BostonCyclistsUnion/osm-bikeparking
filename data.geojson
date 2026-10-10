@@ -3769,6 +3769,11 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "9",
+        "check_date": "2026-10-09",
+        "check_date:capacity": "2026-10-09",
+        "covered": "no",
         "@id": "node/2784116933",
         "@type": "node"
       }
@@ -3784,6 +3789,11 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "check_date": "2026-10-09",
+        "check_date:capacity": "2026-10-09",
+        "covered": "no",
         "@id": "node/2784121936",
         "@type": "node"
       }
@@ -68709,12 +68719,16 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
-        "bicycle_parking": "bollard",
+        "bicycle_parking": "stands",
         "capacity": "2",
         "check_date": "2025-09-02",
         "colour": "black",
         "covered": "no",
         "fee": "no",
+        "indoor": "no",
+        "lit": "yes",
+        "operator": "City Of Boston",
+        "operator:type": "public",
         "@id": "node/13115483114",
         "@type": "node"
       }
@@ -93417,6 +93431,50 @@
         "capacity": "8",
         "covered": "no",
         "@id": "node/14262161084",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1097306,
+          42.3221155
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "colour": "teal",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ATeal_colored_art_bike_rack.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ATeal_colored_art_bike_rack.jpg",
+        "@id": "node/14266203006",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5190825,
+          42.3761039
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/14267704588",
         "@type": "node"
       }
     },
