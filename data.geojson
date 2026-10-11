@@ -6518,6 +6518,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "check_date": "2026-10-10",
+        "covered": "no",
         "@id": "node/4363326061",
         "@type": "node"
       }
@@ -68193,7 +68196,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432274",
         "@type": "node"
       }
@@ -68218,7 +68221,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432275",
         "@type": "node"
       }
@@ -68243,7 +68246,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432276",
         "@type": "node"
       }
@@ -68268,7 +68271,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432277",
         "@type": "node"
       }
@@ -68293,7 +68296,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432278",
         "@type": "node"
       }
@@ -68318,7 +68321,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A6_inverted_V_style_bike_stands.jpg",
+        "wikimedia_commons": "File:6 inverted V style bike stands.jpg",
         "@id": "node/13115432279",
         "@type": "node"
       }
@@ -68409,7 +68412,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
+        "wikimedia_commons": "File:3 staple style bike stands at Curtis Hall in Boston.jpg",
         "@id": "node/13115432283",
         "@type": "node"
       }
@@ -68434,7 +68437,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
+        "wikimedia_commons": "File:3 staple style bike stands at Curtis Hall in Boston.jpg",
         "@id": "node/13115432284",
         "@type": "node"
       }
@@ -68459,7 +68462,7 @@
         "fee": "no",
         "image": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
         "indoor": "no",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A3_staple_style_bike_stands_at_Curtis_Hall_in_Boston.jpg",
+        "wikimedia_commons": "File:3 staple style bike stands at Curtis Hall in Boston.jpg",
         "@id": "node/13115432285",
         "@type": "node"
       }
@@ -69274,6 +69277,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "11",
+        "covered": "no",
         "@id": "node/13125443170",
         "@type": "node"
       }
@@ -78947,7 +78951,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3A8_staple_bike_racks_on_Washington_St.jpg",
         "indoor": "no",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A8_staple_bike_racks_on_Washington_St.jpg",
+        "wikimedia_commons": "File:8 staple bike racks on Washington St.jpg",
         "@id": "node/13653717716",
         "@type": "node"
       }
@@ -91400,7 +91404,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AStaple_bike_rack_in_front_of_bus_stop.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AStaple_bike_rack_in_front_of_bus_stop.jpg",
+        "wikimedia_commons": "File:Staple bike rack in front of bus stop.jpg",
         "@id": "node/14156222934",
         "@type": "node"
       }
@@ -91424,7 +91428,7 @@
         "image": "https://commons.wikimedia.org/wiki/File%3AMetal_U_staple_bike_rack.jpg",
         "indoor": "no",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AMetal_U_staple_bike_rack.jpg",
+        "wikimedia_commons": "File:Metal U staple bike rack.jpg",
         "@id": "node/14156222935",
         "@type": "node"
       }
@@ -93455,7 +93459,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ATeal_colored_art_bike_rack.jpg",
+        "wikimedia_commons": "File:Teal colored art bike rack.jpg",
         "@id": "node/14266203006",
         "@type": "node"
       }
@@ -93475,6 +93479,78 @@
         "capacity": "6",
         "covered": "no",
         "@id": "node/14267704588",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0964785,
+          42.3801148
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14270440674",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0965321,
+          42.3801638
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14270440675",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5268104,
+          42.3846318
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "@id": "node/14271779069",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5257497,
+          42.3851229
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "@id": "node/14271915410",
         "@type": "node"
       }
     },
