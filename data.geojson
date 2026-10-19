@@ -17109,8 +17109,8 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
-        "bicycle_parking": "hoop;stands",
-        "capacity": "5;10",
+        "bicycle_parking": "stands",
+        "capacity": "10",
         "covered": "no",
         "fee": "no",
         "@id": "node/8693727206",
@@ -29923,6 +29923,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "bollard",
         "capacity": "2",
+        "covered": "no",
         "@id": "node/9923328386",
         "@type": "node"
       }
@@ -29940,6 +29941,7 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "bollard",
         "capacity": "2",
+        "covered": "no",
         "@id": "node/9923328387",
         "@type": "node"
       }
@@ -64648,9 +64650,15 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "4",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_bike_stands_in_Rozzie_center.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator": "City of Boston",
         "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_bike_stands_in_Rozzie_center.jpg",
         "@id": "node/13016366632",
         "@type": "node"
       }
@@ -65068,9 +65076,15 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "4",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_Black_lollypop_bike_racks.jpg",
+        "indoor": "no",
+        "lit": "yes",
+        "operator": "City of Boston",
         "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_Black_lollypop_bike_racks.jpg",
         "@id": "node/13016403264",
         "@type": "node"
       }
@@ -65089,9 +65103,14 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "2",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3ALollypop_bike_rack_in_front_of_Dunkin.jpg",
+        "indoor": "no",
+        "lit": "yes",
         "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ALollypop_bike_rack_in_front_of_Dunkin.jpg",
         "@id": "node/13016403265",
         "@type": "node"
       }
@@ -65110,9 +65129,14 @@
         "amenity": "bicycle_parking",
         "bicycle_parking": "wall_loops",
         "capacity": "8",
+        "colour": "black",
         "covered": "no",
         "fee": "no",
-        "operator:type": "public",
+        "image": "https://commons.wikimedia.org/wiki/File%3ABike_rack_in_front_of_Target.jpg",
+        "indoor": "no",
+        "operator": "Target",
+        "operator:type": "private",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABike_rack_in_front_of_Target.jpg",
         "@id": "node/13016403266",
         "@type": "node"
       }
@@ -76998,7 +77022,7 @@
         "indoor": "no",
         "lit": "yes",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A15_O_style_bike_racks_at_Forest_Hills.jpg",
+        "wikimedia_commons": "File:15 O style bike racks at Forest Hills.jpg",
         "@id": "node/13443802569",
         "@type": "node"
       }
@@ -93239,7 +93263,7 @@
         "lit": "yes",
         "operator": "City of Boston",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABike_rack_in_front_of_barbershop.jpg",
+        "wikimedia_commons": "File:Bike rack in front of barbershop.jpg",
         "@id": "node/14250156872",
         "@type": "node"
       }
@@ -93266,7 +93290,7 @@
         "lit": "yes",
         "operator": "City of Boston",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABike_stand_in_front_of_nail_salon.jpg",
+        "wikimedia_commons": "File:Bike stand in front of nail salon.jpg",
         "@id": "node/14250156873",
         "@type": "node"
       }
@@ -93293,7 +93317,7 @@
         "lit": "no",
         "operator": "City of Boston",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABench_in_front_of_post_office.jpg",
+        "wikimedia_commons": "File:Bench in front of post office.jpg",
         "@id": "node/14250156875",
         "@type": "node"
       }
@@ -93335,7 +93359,7 @@
         "indoor": "no",
         "operator": "CommonWealth Kitchen",
         "operator:type": "private",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3ABike_rack_%2882740%29.jpg",
+        "wikimedia_commons": "File:Bike rack (82740).jpg",
         "@id": "node/14250376543",
         "@type": "node"
       }
@@ -93361,7 +93385,7 @@
         "indoor": "no",
         "operator": "Boston Public schools",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3AWave_bicycle_rack_at_night.jpg",
+        "wikimedia_commons": "File:Wave bicycle rack at night.jpg",
         "@id": "node/14250376546",
         "@type": "node"
       }
@@ -93387,7 +93411,7 @@
         "indoor": "no",
         "operator": "Boston Public Schools",
         "operator:type": "public",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_Black_Wave_bike_racks.jpg",
+        "wikimedia_commons": "File:2 Black Wave bike racks.jpg",
         "@id": "node/14250376547",
         "@type": "node"
       }
@@ -93861,8 +93885,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1395253,
-          42.3850157
+          -71.1396452,
+          42.3849406
         ]
       },
       "properties": {
@@ -94312,6 +94336,104 @@
         "capacity": "6",
         "covered": "no",
         "@id": "node/14295316795",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0680333,
+          42.2725156
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "1",
+        "covered": "no",
+        "@id": "node/14297064592",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0684083,
+          42.2723463
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "1",
+        "covered": "no",
+        "@id": "node/14297105396",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0677639,
+          42.2737286
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "1",
+        "covered": "no",
+        "@id": "node/14297246944",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0133979,
+          42.3382832
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "5",
+        "covered": "no",
+        "@id": "node/14297399321",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1287937,
+          42.2867617
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "colour": "black",
+        "covered": "no",
+        "fee": "no",
+        "image": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_bike_racks_at_Rozzie_center.jpg",
+        "lit": "yes",
+        "operator": "City of Boston",
+        "operator:type": "public",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_bike_racks_at_Rozzie_center.jpg",
+        "@id": "node/14297734202",
         "@type": "node"
       }
     },
