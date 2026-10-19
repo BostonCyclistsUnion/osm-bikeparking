@@ -2,8 +2,10 @@ name: Update GeoJSON Data
 
 on:
   schedule:
-    # Run at 04:00 UTC daily
-    - cron: '0 4 * * *'
+    # Run at 07:23 UTC daily. Off-the-hour avoids the worst GitHub Actions
+    # cron pileup, but scheduled runs are still often delayed by several hours,
+    # so don't rely on this firing at a particular time of day.
+    - cron: '23 7 * * *'
   workflow_dispatch: # Allow manual trigger from Actions tab
 
 permissions:
@@ -12,16 +14,25 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Worst case is every endpoint hitting fetch.py's 90s request timeout,
+    # well under this.
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Fetch and convert data
         run: python3 fetch.py
         env:
-          TAP_IN_OSM_DROP_THRESHOLD: ${{ vars.DROP_THRESHOLD || '50' }}
-          TAP_IN_OSM_MAX_DATA_LAG_HOURS: ${{ vars.MAX_DATA_LAG_HOURS || '48' }}
+          # Keep stdout and stderr interleaved in order in the job log.
+          PYTHONUNBUFFERED: '1'
+          MICROCOSM_DROP_THRESHOLD: ${{ vars.DROP_THRESHOLD || '50' }}
+          MICROCOSM_MAX_DATA_LAG_HOURS: ${{ vars.MAX_DATA_LAG_HOURS || '48' }}
+          MICROCOSM_USER_AGENT: ${{ vars.USER_AGENT }}
+          # Optional. A self-hosted or key-bearing Overpass instance, tried before
+          # the public endpoints. Unset in forks that don't have one, which is fine.
+          OVERPASS_PRIMARY_URL: ${{ secrets.OVERPASS_PRIMARY_URL }}
 
       - name: Commit and push if changed
         run: |
