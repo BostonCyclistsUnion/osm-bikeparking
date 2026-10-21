@@ -801,7 +801,9 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "check_date": "2024-05-04",
+        "covered": "no",
         "@id": "node/1367977888",
         "@type": "node"
       }
@@ -2121,6 +2123,7 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
         "capacity": "10",
         "check_date": "2026-04-17",
         "covered": "no",
@@ -10654,6 +10657,7 @@
       "properties": {
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
+        "capacity": "4",
         "covered": "no",
         "@id": "node/6124562839",
         "@type": "node"
@@ -94434,6 +94438,63 @@
         "operator:type": "public",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File%3A2_lollypop_bike_racks_at_Rozzie_center.jpg",
         "@id": "node/14297734202",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1113707,
+          42.3612857
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14304710997",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1118876,
+          42.3608663
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "covered": "no",
+        "@id": "node/14304779034",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1084127,
+          42.1148785
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "fee": "no",
+        "operator": "Town of Sturbridge",
+        "operator:type": "public",
+        "operator:wikidata": "Q3976365",
+        "@id": "node/14304898618",
         "@type": "node"
       }
     },
