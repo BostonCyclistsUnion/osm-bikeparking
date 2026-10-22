@@ -588,6 +588,8 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
         "@id": "node/986669855",
         "@type": "node"
       }
@@ -71175,6 +71177,8 @@
       "properties": {
         "access": "yes",
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
         "@id": "node/13174003488",
         "@type": "node"
       }
@@ -94495,6 +94499,36 @@
         "operator:type": "public",
         "operator:wikidata": "Q3976365",
         "@id": "node/14304898618",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8892975,
+          42.2426892
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14307797717",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140014,
+          42.3422485
+        ]
+      },
+      "properties": {
+        "amenity": "bicycle_parking",
+        "@id": "node/14307875884",
         "@type": "node"
       }
     },
