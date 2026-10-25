@@ -96877,6 +96877,8 @@
       },
       "properties": {
         "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
         "@id": "way/1415891126",
         "@type": "way"
       }
