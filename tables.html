@@ -1,0 +1,36 @@
+<html> 
+  <head> 
+    <!-- https://releases.jquery.com/ -->
+    <link href="https://cdn.jsdelivr.net/gh/tofsjonas/sortable@latest/dist/sortable.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/gh/tofsjonas/sortable@latest/dist/sortable.min.js"></script>
+    <script src="https://code.jquery.com/jquery-4.0.0.min.js"></script>
+    <script> 
+        $(function(){
+        $("#cityTable").load("parking_city.html");
+        $("#neighborhoodTable").load("parking_neighborhood.html");
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('input[name="rackTable"]').click(function () {
+                const selectedValue = $(this).val();
+                $(".content").css('display', 'none'); // Hide all divs
+                $("." + selectedValue).css('display', 'block'); // Show the selected div
+            });
+        });
+    </script>
+    <style>
+        .content {
+            display: none;
+        }
+    </style>
+  </head> 
+
+  <body>
+    <label><input type="radio" id="city" name="rackTable" value="city">Cities</label>
+    <label><input type="radio" id="neighborhood" name="rackTable" value="neighborhood">Neighborhoods</label><br>
+
+    <div id="cityTable" class="city content"></div>
+    <div id="neighborhoodTable" class="neighborhood content"></div>
+  </body>
+</html>
