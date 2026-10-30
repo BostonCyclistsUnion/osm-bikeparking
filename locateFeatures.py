@@ -84,6 +84,7 @@ def locate():
     cityParking = cityParking.reset_index()
     # print(cityParking.columns)
     cityParking = cityParking.dropna(subset=['capacity'])
+    cityParking = cityParking.astype({"capacity": "int"})
     cityParking = cityParking[['city', 'capacity', 'perCapita', 'perSqmi', 'population', 'area_sqmi']]
     cityParking.sort_values(by=['perCapita'], ascending=False, inplace=True)
     cityParking = cityParking.round({"area_sqmi": 2, "perSqmi": 1, 'perCapita':1})
@@ -94,9 +95,17 @@ def locate():
     # print(hoodParking.columns)
     hoodParking = hoodParking[['neighborhood', 'city', 'capacity', 'perSqmi', 'area_sqmi']]
     hoodParking.sort_values(by=['perSqmi'], ascending=False, inplace=True)
-    hoodParking = hoodParking.round({"area_sqmi": 2, "perSqmi": 1})
+    hoodParking = hoodParking.round({"area_sqmi": 2, "perSqmi": 1, 'capacity': 0})
     hoodParking.rename(columns={'area_sqmi': 'Area (sq.mi.)', 'perSqmi': 'Capacity per sq.mi.'}, inplace=True)
     hoodParking.to_html('parking_neighborhood.html', classes='sortable', index=False)
+
+    councilParking = councilParking.reset_index()
+    # print(councilParking.columns)
+    councilParking = councilParking[['LONGNAME', 'Councilor', 'capacity', 'perSqmi', 'area_sqmi']]
+    councilParking.sort_values(by=['capacity'], ascending=False, inplace=True)
+    councilParking = councilParking.round({"area_sqmi": 2, "perSqmi": 1, 'capacity': 0})
+    councilParking.rename(columns={'area_sqmi': 'Area (sq.mi.)', 'perSqmi': 'Capacity per sq.mi.', 'LONGNAME': 'District'}, inplace=True)
+    councilParking.to_html('parking_council.html', classes='sortable', index=False)
 
 
 def update_data():

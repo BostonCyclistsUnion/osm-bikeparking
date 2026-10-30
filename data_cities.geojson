@@ -10295,16 +10295,84 @@
               42.0330946
             ],
             [
+              -72.65527,
+              42.0334939
+            ],
+            [
+              -72.6589759,
+              42.0338493
+            ],
+            [
+              -72.6611829,
+              42.0340609
+            ],
+            [
+              -72.66291,
+              42.0342266
+            ],
+            [
+              -72.6684108,
+              42.0347541
+            ],
+            [
+              -72.66858,
+              42.0347704
+            ],
+            [
+              -72.6710703,
+              42.0350092
+            ],
+            [
               -72.6729236,
               42.0351869
+            ],
+            [
+              -72.6740098,
+              42.0352597
+            ],
+            [
+              -72.6751093,
+              42.0353334
             ],
             [
               -72.6860458,
               42.0360666
             ],
             [
+              -72.6892318,
+              42.0362802
+            ],
+            [
+              -72.6955491,
+              42.0367036
+            ],
+            [
               -72.6993301,
               42.0369571
+            ],
+            [
+              -72.7012322,
+              42.0369513
+            ],
+            [
+              -72.7039857,
+              42.0369429
+            ],
+            [
+              -72.7059879,
+              42.0369368
+            ],
+            [
+              -72.7076714,
+              42.0369316
+            ],
+            [
+              -72.7080817,
+              42.0369304
+            ],
+            [
+              -72.7107864,
+              42.0369221
             ],
             [
               -72.71096,
@@ -118176,6 +118244,10 @@
               42.4148297
             ],
             [
+              -71.2017696,
+              42.4157444
+            ],
+            [
               -71.2012006,
               42.4163408
             ],
@@ -119368,8 +119440,20 @@
               42.6741975
             ],
             [
+              -71.1187577,
+              42.6610228
+            ],
+            [
               -71.1161525,
               42.6575447
+            ],
+            [
+              -71.0967364,
+              42.6316168
+            ],
+            [
+              -71.0932604,
+              42.626974
             ],
             [
               -71.0761664,
@@ -120475,6 +120559,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Andover",
+        "population": "36,569",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://andoverma.gov/",
         "wikidata": "Q370619",
@@ -123088,8 +123174,20 @@
               42.6741975
             ],
             [
+              -71.1187577,
+              42.6610228
+            ],
+            [
               -71.1161525,
               42.6575447
+            ],
+            [
+              -71.0967364,
+              42.6316168
+            ],
+            [
+              -71.0932604,
+              42.626974
             ],
             [
               -71.0761664,
@@ -125271,6 +125369,7 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "North Andover",
+        "place": "town",
         "type": "boundary",
         "website": "https://www.northandoverma.gov/",
         "wikidata": "Q2302167",
@@ -164142,6 +164241,14 @@
               42.3086976
             ],
             [
+              -72.080367,
+              42.3053826
+            ],
+            [
+              -72.0838194,
+              42.3050907
+            ],
+            [
               -72.1174639,
               42.3022454
             ],
@@ -164274,6 +164381,14 @@
             [
               -72.0411685,
               42.3086976
+            ],
+            [
+              -72.080367,
+              42.3053826
+            ],
+            [
+              -72.0838194,
+              42.3050907
             ],
             [
               -72.1174639,
@@ -200807,6 +200922,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Wayland",
+        "population": "13,943",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.wayland.ma.us/",
         "wikidata": "Q2049231",
@@ -217316,6 +217433,10 @@
               42.4163408
             ],
             [
+              -71.2017696,
+              42.4157444
+            ],
+            [
               -71.2026422,
               42.4148297
             ],
@@ -217568,8 +217689,16 @@
               42.4010404
             ],
             [
+              -71.1464358,
+              42.3986305
+            ],
+            [
               -71.1435872,
               42.3974092
+            ],
+            [
+              -71.1435177,
+              42.3974373
             ],
             [
               -71.1434158,
@@ -223292,8 +223421,16 @@
               42.3974786
             ],
             [
+              -71.1435177,
+              42.3974373
+            ],
+            [
               -71.1435872,
               42.3974092
+            ],
+            [
+              -71.1464358,
+              42.3986305
             ],
             [
               -71.1520567,
@@ -241083,6 +241220,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Needham",
+        "population": "32,091",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.needhamma.gov/",
         "wikidata": "Q1664345",
@@ -242947,6 +243086,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Wellesley",
+        "population": "29,550",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.wellesleyma.gov",
         "wikidata": "Q533317",
@@ -245420,6 +245561,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Mansfield",
+        "population": "23,860",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.mansfieldma.com/",
         "wikidata": "Q1193955",
@@ -269664,24 +269807,8 @@
               42.2632702
             ],
             [
-              -71.1687426,
-              42.2632701
-            ],
-            [
-              -71.1687418,
-              42.2632694
-            ],
-            [
-              -71.1687388,
-              42.263267
-            ],
-            [
               -71.1686035,
               42.2631594
-            ],
-            [
-              -71.1686026,
-              42.2631587
             ],
             [
               -71.1684981,
@@ -269899,6 +270026,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Dedham",
+        "population": "25,364",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.dedham-ma.gov",
         "wikidata": "Q1758615",
@@ -272402,24 +272531,8 @@
               42.2630757
             ],
             [
-              -71.1686026,
-              42.2631587
-            ],
-            [
               -71.1686035,
               42.2631594
-            ],
-            [
-              -71.1687388,
-              42.263267
-            ],
-            [
-              -71.1687418,
-              42.2632694
-            ],
-            [
-              -71.1687426,
-              42.2632701
             ],
             [
               -71.1687427,
@@ -280909,6 +281022,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Milton",
+        "population": "28,630",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.townofmilton.org/",
         "wikidata": "Q739428",
@@ -280958,6 +281073,14 @@
             [
               -70.9085843,
               42.5575991
+            ],
+            [
+              -70.9085584,
+              42.5595708
+            ],
+            [
+              -70.9085403,
+              42.5609453
             ],
             [
               -70.9083813,
@@ -288091,6 +288214,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Peabody",
+        "population": "54,418",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.peabody-ma.gov/",
         "wikidata": "Q54136",
@@ -289574,6 +289699,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Winthrop",
+        "population": "19,316",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.winthropma.gov/",
         "wikidata": "Q54170",
@@ -292196,6 +292323,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Nahant",
+        "population": "3,334",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.nahant.org/",
         "wikidata": "Q665163",
@@ -309913,6 +310042,14 @@
             [
               -70.9083813,
               42.5730489
+            ],
+            [
+              -70.9085403,
+              42.5609453
+            ],
+            [
+              -70.9085584,
+              42.5595708
             ],
             [
               -70.9085843,
@@ -335417,6 +335554,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Newburyport",
+        "population": "18,289",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.cityofnewburyport.com/",
         "wikidata": "Q54134",
@@ -347247,6 +347386,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Hingham",
+        "population": "24,284",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.hingham-ma.gov/",
         "wikidata": "Q2305817",
@@ -350239,6 +350380,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Hull",
+        "population": "10,072",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.town.hull.ma.us/",
         "wikidata": "Q2414193",
@@ -358200,6 +358343,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Scituate",
+        "population": "19,063",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.scituatema.gov/",
         "wikidata": "Q2415936",
@@ -369067,6 +369212,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Brewster",
+        "population": "10,318",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.brewster-ma.gov/",
         "wikidata": "Q911438",
@@ -380666,6 +380813,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Falmouth",
+        "population": "32,517",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.falmouthma.gov/",
         "wikidata": "Q1523514",
@@ -382768,6 +382917,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Harwich",
+        "population": "13,440",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.harwich-ma.gov/",
         "wikidata": "Q971430",
@@ -389834,6 +389985,8 @@
         "boundary": "administrative",
         "loc_name": "P-Town;Ptown",
         "name": "Provincetown",
+        "population": "3,664",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.provincetown-ma.gov/",
         "wikidata": "Q49154",
@@ -391828,6 +391981,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Sandwich",
+        "population": "20,259",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.sandwichmass.org/",
         "wikidata": "Q926146",
@@ -413946,6 +414101,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Norwood",
+        "population": "31,611",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.norwoodma.gov",
         "wikidata": "Q2415892",
@@ -432059,12 +432216,56 @@
               42.0653874
             ],
             [
+              -70.9194933,
+              42.0655256
+            ],
+            [
+              -70.9234914,
+              42.0658298
+            ],
+            [
+              -70.9272725,
+              42.0661175
+            ],
+            [
               -70.9290882,
               42.0662557
             ],
             [
+              -70.9407989,
+              42.0633789
+            ],
+            [
+              -70.9450822,
+              42.0623266
+            ],
+            [
+              -70.9456043,
+              42.0621983
+            ],
+            [
+              -70.9470328,
+              42.0618474
+            ],
+            [
+              -70.9472823,
+              42.0617861
+            ],
+            [
+              -70.9495663,
+              42.061225
+            ],
+            [
               -70.9510449,
               42.0608617
+            ],
+            [
+              -70.9577916,
+              42.0636278
+            ],
+            [
+              -70.9598818,
+              42.0644847
             ],
             [
               -70.9605854,
@@ -435148,12 +435349,56 @@
               42.0653874
             ],
             [
+              -70.9194933,
+              42.0655256
+            ],
+            [
+              -70.9234914,
+              42.0658298
+            ],
+            [
+              -70.9272725,
+              42.0661175
+            ],
+            [
               -70.9290882,
               42.0662557
             ],
             [
+              -70.9407989,
+              42.0633789
+            ],
+            [
+              -70.9450822,
+              42.0623266
+            ],
+            [
+              -70.9456043,
+              42.0621983
+            ],
+            [
+              -70.9470328,
+              42.0618474
+            ],
+            [
+              -70.9472823,
+              42.0617861
+            ],
+            [
+              -70.9495663,
+              42.061225
+            ],
+            [
               -70.9510449,
               42.0608617
+            ],
+            [
+              -70.9577916,
+              42.0636278
+            ],
+            [
+              -70.9598818,
+              42.0644847
             ],
             [
               -70.9605854,

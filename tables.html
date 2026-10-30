@@ -8,6 +8,7 @@
         $(function(){
         $("#cityTable").load("parking_city.html");
         $("#neighborhoodTable").load("parking_neighborhood.html");
+        $("#councilTable").load("parking_council.html");
         });
     </script>
     <script>
@@ -28,9 +29,12 @@
 
   <body>
     <label><input type="radio" id="city" name="rackTable" value="city">Cities</label>
-    <label><input type="radio" id="neighborhood" name="rackTable" value="neighborhood">Neighborhoods</label><br>
+    <label><input type="radio" id="neighborhood" name="rackTable" value="neighborhood">Neighborhoods</label>
+    <label><input type="radio" id="council" name="rackTable" value="council">Council Districts</label>
+    <br>
 
     <div id="cityTable" class="city content"></div>
     <div id="neighborhoodTable" class="neighborhood content"></div>
+    <div id="councilTable" class="council content"></div>
   </body>
 </html>
