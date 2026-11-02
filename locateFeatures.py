@@ -13,7 +13,7 @@ def locate():
     pts = geopandas.read_file('data_bikeParking.geojson')
     city = geopandas.read_file('data_cities.geojson')
     hood = geopandas.read_file('data_neighborhoods.geojson')
-    council = geopandas.read_file('Boston_city_council_districts_2023_2032.json')
+    council = geopandas.read_file('data_council_boston.json')
 
     # Pre-process city data
     city['population'] = city['population'].str.replace(r'\D', '', regex=True).astype(float) # Remove non-digit values from populations, e.g. commas
@@ -59,7 +59,7 @@ def locate():
     parkingCountsHood = ptsLocatedHood.groupby(['neighborhood'])['capacity'].sum().sort_values(ascending=False)    
     parkingCountsCoun = ptsLocatedCoun.groupby(['Councilor'])['capacity'].sum().sort_values(ascending=False)
 
-    cityParking = city[['city','population', 'area_sqmi']].sort_values(by='population', ascending=False)
+    cityParking = city[['city','population', 'area_sqmi', 'population:date']].sort_values(by='population', ascending=False)
     cityParking.set_index('city', inplace=True)
     cityParking['capacity'] = parkingCountsCity
     cityParking['perCapita'] = cityParking['capacity'] / cityParking['population'] * 10000
