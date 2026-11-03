@@ -114,5 +114,5 @@ def update_data():
     fetch('query_bikeParking.overpassql', 'data_bikeParking.geojson')
 
 if __name__ == "__main__":
-    # update_data()
+    update_data()
     locate()
