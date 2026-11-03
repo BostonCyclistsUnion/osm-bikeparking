@@ -6068,7 +6068,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Chicopee",
-        "population": "55298",
+        "population": "55,560",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.chicopeema.gov/",
         "wikidata": "Q1650454",
@@ -12844,7 +12845,8 @@
         "boundary": "administrative",
         "name": "Holyoke",
         "name:ru": "Холиок",
-        "population": "39880",
+        "population": "38,238",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.holyoke.org/",
         "wikidata": "Q1637790",
@@ -23097,7 +23099,8 @@
         "boundary": "administrative",
         "name": "Westfield",
         "name:ru": "Уэстфилд",
-        "population": "41094",
+        "population": "40,834",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.cityofwestfield.org/",
         "wikidata": "Q1055854",
@@ -29836,7 +29839,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Chelmsford",
-        "population": "33802",
+        "population": "36,392",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.townofchelmsford.us/",
         "wikidata": "Q2318398",
@@ -36621,8 +36625,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Bolton",
-        "population": "4472",
-        "population:date": "2006",
+        "population": "5,665",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.townofbolton.com/",
@@ -46901,7 +46905,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Billerica",
-        "population": "40243",
+        "population": "42,119",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.town.billerica.ma.us/",
         "wikidata": "Q403428",
@@ -49080,7 +49085,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Amherst",
-        "population": "37819",
+        "population": "39,263",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.amherstma.gov/",
         "wikidata": "Q49164",
@@ -118808,7 +118814,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Lexington",
-        "population": "31394",
+        "population": "34,454",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.lexingtonma.gov",
         "wikidata": "Q929667",
@@ -123143,6 +123150,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Methuen",
+        "population": "53,039",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.cityofmethuen.net/",
         "wikidata": "Q54179",
@@ -137628,7 +137637,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Everett",
-        "population": "41667",
+        "population": "49,075",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.cityofeverett.com/",
         "wikidata": "Q54151",
@@ -140916,8 +140926,8 @@
         "boundary": "administrative",
         "name": "Athol",
         "nickname": "Tool Town",
-        "population": "11661",
-        "population:date": "2006",
+        "population": "11,945",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.athol-ma.gov/",
@@ -141010,8 +141020,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Auburn",
-        "population": "16375",
-        "population:date": "2006",
+        "population": "16,889",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.auburnma.gov/",
@@ -141166,8 +141176,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Berlin",
-        "population": "2719",
-        "population:date": "2006",
+        "population": "3,158",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.townofberlin.com/",
@@ -141601,8 +141611,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Boylston",
-        "population": "4355",
-        "population:date": "2010",
+        "population": "4,849",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.boylston-ma.gov/",
@@ -148959,8 +148969,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Grafton",
-        "population": "17405",
-        "population:date": "2006",
+        "population": "19,664",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.grafton-ma.gov",
@@ -152378,7 +152388,7 @@
         "boundary": "administrative",
         "name": "Hardwick",
         "population": "2667",
-        "population:date": "2006",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.hardwick-ma.gov/",
@@ -153901,8 +153911,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Holden",
-        "population": "16667",
-        "population:date": "2006",
+        "population": "19,905",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.holdenma.gov/",
@@ -154235,8 +154245,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Hubbardston",
-        "population": "4422",
-        "population:date": "2006",
+        "population": "4,328",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.hubbardstonma.us/",
@@ -155799,8 +155809,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Leicester",
-        "population": "11003",
-        "population:date": "2006",
+        "population": "11,087",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.leicesterma.org/",
@@ -161842,8 +161852,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Millbury",
-        "population": "13609",
-        "population:date": "2006",
+        "population": "13,831",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.millburyma.gov/",
@@ -162275,8 +162285,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Millville",
-        "population": "2953",
-        "population:date": "2006",
+        "population": "3,174",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.millvillema.org",
@@ -165565,8 +165575,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Oakham",
-        "population": "1908",
-        "population:date": "2006",
+        "population": "1,851",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.oakham-ma.gov/",
@@ -173187,8 +173197,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Phillipston",
-        "population": "1780",
-        "population:date": "2006",
+        "population": "1,726",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.phillipston-ma.gov",
@@ -174197,8 +174207,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Princeton",
-        "population": "3522",
-        "population:date": "2006",
+        "population": "3,495",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://town.princeton.ma.us/",
@@ -175019,8 +175029,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Shrewsbury",
-        "population": "33262",
-        "population:date": "2006",
+        "population": "38,325",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://shrewsburyma.gov/",
         "wikidata": "Q2559909",
@@ -176616,8 +176626,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Southborough",
-        "population": "9551",
-        "population:date": "2006",
+        "population": "10,450",
+        "population:date": "2020",
         "postal_code": "01772",
         "source:population": "US Census",
         "type": "boundary",
@@ -186923,8 +186933,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Uxbridge",
-        "population": "12613",
-        "population:date": "2006",
+        "population": "14,162",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.uxbridge-ma.gov/",
@@ -195410,7 +195420,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Marlborough",
-        "population": "38499",
+        "population": "41,793",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.marlborough-ma.gov/",
         "wikidata": "Q54189",
@@ -205076,7 +205087,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Natick",
-        "population": "32786",
+        "population": "37,006",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.natickma.gov/",
         "wikidata": "Q367070",
@@ -216281,7 +216293,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Medford",
-        "population": "56173",
+        "population": "59,659",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.medfordma.org/",
         "wikidata": "Q54145",
@@ -216925,7 +216938,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Woburn",
-        "population": "38120",
+        "population": "40,876",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.woburnma.gov/",
         "wikidata": "Q54174",
@@ -217932,7 +217946,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Arlington",
-        "population": "42844",
+        "population": "46,308",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.arlingtonma.gov/",
         "wikidata": "Q2090461",
@@ -220468,7 +220483,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Belmont",
-        "population": "24729",
+        "population": "27,295",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.belmont-ma.gov/",
         "wikidata": "Q816096",
@@ -221785,7 +221801,8 @@
         "boundary": "administrative",
         "name": "Watertown",
         "name:hy": "Ուոթերթաուն",
-        "population": "31915",
+        "population": "35,329",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.watertown-ma.gov",
         "wikidata": "Q54172",
@@ -228884,6 +228901,10 @@
               42.5956867
             ],
             [
+              -70.9712439,
+              42.5961879
+            ],
+            [
               -70.9657955,
               42.5990593
             ],
@@ -233824,6 +233845,10 @@
             [
               -70.9495214,
               42.7480659
+            ],
+            [
+              -70.9458185,
+              42.7461916
             ],
             [
               -70.9421436,
@@ -245010,6 +245035,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Stoughton",
+        "population": "29,281",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.stoughton.org/",
         "wikidata": "Q2536859",
@@ -264134,6 +264161,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Franklin",
+        "population": "33,261",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.franklinma.gov/",
         "wikidata": "Q942254",
@@ -281083,6 +281112,10 @@
               42.5609453
             ],
             [
+              -70.9084817,
+              42.5654101
+            ],
+            [
               -70.9083813,
               42.5730489
             ],
@@ -281229,6 +281262,10 @@
             [
               -70.9657955,
               42.5990593
+            ],
+            [
+              -70.9712439,
+              42.5961879
             ],
             [
               -70.9721948,
@@ -283418,6 +283455,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Danvers",
+        "population": "28,087",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.danversma.gov/",
         "wikidata": "Q1066487",
@@ -289194,8 +289233,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Chelsea",
-        "population": "35177",
-        "population:date": "2010",
+        "population": "40,787",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.chelseama.gov/",
@@ -309656,8 +309695,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Salem",
-        "population": "44480",
-        "population:date": "2010",
+        "population": "44,480",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.salemma.gov/",
@@ -310042,6 +310081,10 @@
             [
               -70.9083813,
               42.5730489
+            ],
+            [
+              -70.9084817,
+              42.5654101
             ],
             [
               -70.9085403,
@@ -313695,6 +313738,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Beverly",
+        "population": "42,670",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.beverlyma.gov/",
         "wikidata": "Q54138",
@@ -323839,8 +323884,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Ipswich",
-        "population": "13293",
-        "population:date": "2006",
+        "population": "13,785",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.ipswichma.gov/",
@@ -332632,6 +332677,10 @@
               42.7443314
             ],
             [
+              -70.9458185,
+              42.7461916
+            ],
+            [
               -70.9495214,
               42.7480659
             ],
@@ -340517,6 +340566,18 @@
               42.1869463
             ],
             [
+              -70.9731643,
+              42.190294
+            ],
+            [
+              -70.9726004,
+              42.1940319
+            ],
+            [
+              -70.9717704,
+              42.1995341
+            ],
+            [
               -70.9687007,
               42.2198784
             ],
@@ -341417,20 +341478,60 @@
               42.1474745
             ],
             [
+              -70.9554372,
+              42.1456289
+            ],
+            [
+              -70.9577532,
+              42.1447222
+            ],
+            [
+              -70.9592626,
+              42.1441313
+            ],
+            [
               -70.9605691,
               42.1436198
+            ],
+            [
+              -70.961342,
+              42.1433171
+            ],
+            [
+              -70.9634841,
+              42.1424781
+            ],
+            [
+              -70.9728945,
+              42.1387922
             ],
             [
               -70.9734179,
               42.1385872
             ],
             [
+              -70.9740362,
+              42.138345
+            ],
+            [
               -70.9767516,
               42.1372814
             ],
             [
+              -70.977691,
+              42.1369134
+            ],
+            [
+              -70.979687,
+              42.1361315
+            ],
+            [
               -70.9812676,
               42.1355124
+            ],
+            [
+              -70.9809647,
+              42.1375877
             ],
             [
               -70.980657,
@@ -341500,8 +341601,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Weymouth",
-        "population": "53606",
-        "population:date": "2006",
+        "population": "57,473",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.weymouth.ma.us/",
@@ -394143,6 +394244,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Wellfleet",
+        "population": "3,566",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.wellfleet-ma.gov/",
         "wikidata": "Q2303115",
@@ -398980,6 +399083,26 @@
               42.1537901
             ],
             [
+              -71.0563501,
+              42.1536516
+            ],
+            [
+              -71.0552428,
+              42.1525289
+            ],
+            [
+              -71.055141,
+              42.1524257
+            ],
+            [
+              -71.0546707,
+              42.1519488
+            ],
+            [
+              -71.0537169,
+              42.1509818
+            ],
+            [
               -71.0401201,
               42.1371943
             ],
@@ -399058,6 +399181,14 @@
             [
               -71.0257304,
               42.1604736
+            ],
+            [
+              -71.0251929,
+              42.1617009
+            ],
+            [
+              -71.0247015,
+              42.1628231
             ],
             [
               -71.0245095,
@@ -400826,6 +400957,18 @@
               42.2198784
             ],
             [
+              -70.9717704,
+              42.1995341
+            ],
+            [
+              -70.9726004,
+              42.1940319
+            ],
+            [
+              -70.9731643,
+              42.190294
+            ],
+            [
               -70.9736692,
               42.1869463
             ],
@@ -402042,6 +402185,10 @@
               42.1355124
             ],
             [
+              -70.9809647,
+              42.1375877
+            ],
+            [
               -70.980657,
               42.1396961
             ],
@@ -402150,6 +402297,14 @@
               42.1632615
             ],
             [
+              -71.0247015,
+              42.1628231
+            ],
+            [
+              -71.0251929,
+              42.1617009
+            ],
+            [
               -71.0257304,
               42.1604736
             ],
@@ -402225,8 +402380,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Holbrook",
-        "population": "10730",
-        "population:date": "2006",
+        "population": "11,405",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://holbrookma.gov",
@@ -402333,6 +402488,26 @@
             [
               -71.0564867,
               42.1537901
+            ],
+            [
+              -71.0563501,
+              42.1536516
+            ],
+            [
+              -71.0552428,
+              42.1525289
+            ],
+            [
+              -71.055141,
+              42.1524257
+            ],
+            [
+              -71.0546707,
+              42.1519488
+            ],
+            [
+              -71.0537169,
+              42.1509818
             ],
             [
               -71.0401201,
@@ -407053,6 +407228,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Canton",
+        "population": "24,370",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.town.canton.ma.us/",
         "wikidata": "Q2429670",
@@ -409971,6 +410148,7 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Westwood",
+        "population": "16,266",
         "type": "boundary",
         "website": "https://www.townhall.westwood.ma.us/",
         "wikidata": "Q2304357",
@@ -419669,6 +419847,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Walpole",
+        "population": "26,383",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.walpole-ma.gov/",
         "wikidata": "Q990137",
@@ -433646,16 +433826,52 @@
               42.1355124
             ],
             [
+              -70.979687,
+              42.1361315
+            ],
+            [
+              -70.977691,
+              42.1369134
+            ],
+            [
               -70.9767516,
               42.1372814
+            ],
+            [
+              -70.9740362,
+              42.138345
             ],
             [
               -70.9734179,
               42.1385872
             ],
             [
+              -70.9728945,
+              42.1387922
+            ],
+            [
+              -70.9634841,
+              42.1424781
+            ],
+            [
+              -70.961342,
+              42.1433171
+            ],
+            [
               -70.9605691,
               42.1436198
+            ],
+            [
+              -70.9592626,
+              42.1441313
+            ],
+            [
+              -70.9577532,
+              42.1447222
+            ],
+            [
+              -70.9554372,
+              42.1456289
             ],
             [
               -70.9507228,
@@ -461208,6 +461424,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Dartmouth",
+        "population": "33,783",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.town.dartmouth.ma.us/",
         "wikidata": "Q1811258",
@@ -482963,6 +483181,8 @@
         "border_type": "town",
         "boundary": "administrative",
         "name": "Easton",
+        "population": "25,058",
+        "population:date": "2020",
         "type": "boundary",
         "website": "https://www.easton.ma.us/",
         "wikidata": "Q2418423",
@@ -487467,8 +487687,8 @@
         "border_type": "city",
         "boundary": "administrative",
         "name": "Taunton",
-        "population": "56074",
-        "population:date": "2006",
+        "population": "59,408",
+        "population:date": "2020",
         "source:population": "US Census",
         "type": "boundary",
         "website": "https://www.taunton-ma.gov/",
